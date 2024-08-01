@@ -47,7 +47,6 @@ function levelUp(){
     gameSeq.push(randcolor);
     console.log(gameSeq);
 
-
     //random btn choose
     gameFlash(randbtn);
 }

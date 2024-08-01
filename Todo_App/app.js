@@ -1,5 +1,4 @@
 
-
 /* Todo App */
 let btn = document.querySelector("button");
 
