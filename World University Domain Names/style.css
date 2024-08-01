@@ -1,0 +1,25 @@
+
+body{
+    text-align: center;
+}
+input{
+    height: 20px;
+    width: 250px;
+}
+button{
+    height: 26px;
+    width: 90px;
+}
+
+ul{
+    text-align: start;
+}
+.box{
+border:2px solid black;
+width: 500px;
+height: 600px;
+display: flex;
+margin-left: 400px;
+margin-top: 20px;
+box-shadow: 2px 2px 5px black;
+}
