@@ -1,8 +1,8 @@
 # JavaScript
 JavaScript: JavaScript is a high-level programming language that adds interactivity and dynamic behavior to web pages. It is responsible for init, and managing the sequencing and scoring aspects of the game.
 
-### * Simon Says Game
-DOM (Document Object Model):<br>
+## Simon Says Game
+* DOM (Document Object Model) :-<br>
  The Document Object Model (DOM) is a representation of an HTML document as a structured tree of objects. It provides a way for programming languages, such as JavaScript, to interact with and manipulate the elements, attributes, and text within an HTML document. With the DOM, JavaScript can access, create, modify, and delete HTML elements dynamically. It allows for the retrieval and modification of content, attributes, and styles of specific elements on a web page. By utilizing DOM methods and properties, developers can add interactivity, respond touser actions, and dynamically update the display of a web page.
 
 ### Todo App
